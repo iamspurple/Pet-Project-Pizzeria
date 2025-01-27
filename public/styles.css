@@ -57,6 +57,7 @@ input[type=submit] {
   box-shadow: 0 12px 24px 0 rgba(0,0,0,0.09);
   position: relative;
   display: flex;
+  align-items: center;
   flex-direction: column;
   padding: 12px;
   margin-bottom: 22px;
